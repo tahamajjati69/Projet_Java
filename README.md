@@ -59,7 +59,7 @@ et livraisons.
     └── utils/
         └── DBConnection.java
 ##  4. Modèle relationnel du système de gestion des livraisons
-<img width="1433" height="652" alt="image" src="https://github.com/user-attachments/assets/38c803f2-d3c6-4a7f-9de3-13a2996f0ba0" />
+<img width="1252" height="557" alt="image" src="https://github.com/user-attachments/assets/79b8fb9d-16db-4bb0-a552-204d556af207" />
 
 ##  5. Base de Données (MySQL)
 
