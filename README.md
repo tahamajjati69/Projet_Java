@@ -78,11 +78,11 @@ CREATE TABLE colis (
 );
 
 CREATE TABLE livraison (
-    id INT PRIMARY KEY AUTO_INCREMENT,
     statut VARCHAR(50),
     dateLivraison DATE,
     colisRef INT,
     livreurId INT,
+    PRIMARY KEY (colisRef, livreurId, dataLivraison),
     FOREIGN KEY (colisRef) REFERENCES colis(reference) ON DELETE CASCADE,
     FOREIGN KEY (livreurId) REFERENCES livreur(id) ON DELETE CASCADE
 );
