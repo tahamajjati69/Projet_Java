@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/services/LivraisonService.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/dao/UtilisateurDao.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/test/TestLivreur.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/ui/LoginUI.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/dao/LivraisonDao.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/entities/Colis.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/test/TestLivraison.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/dao/IDao.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/test/TestColis.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/ui/LivraisonUI.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/services/LivreurService.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/ui/MainFrame.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/dao/GraphLivraisonDao.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/services/ColisService.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/ui/grapheUI.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/entities/Livreur.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/ui/ColisUI.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/entities/Utilisateur.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/dao/LivreurDao.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/utils/DBConnection.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/dao/ColisDao.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/entities/Livraison.java</file>
+            <file>file:/C:/Users/mmajj/OneDrive/Documents/NetBeansProjects/JavaApplication5/src/ui/LivreurUI.java</file>
+        </group>
+    </open-files>
+</project-private>
